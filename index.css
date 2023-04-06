@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot,
+thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer,
+header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+ margin: 0;
+ padding: 0;
+ 
+}
+
+.section1{
+    background-color: black;
+    color:rgba(132, 223, 223, 0.486);
+    text-align: center; 
+    padding:38px;
+}
+h1{
+    font-size:48px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    
+    
+}
+.text-body-s1{
+    font-size:24px;
+    margin-bottom: 12px;
+    
+}
+.text-body-s11{
+    font-size:20px;
+    font-style:italic;
+    
+    
+}
+.section2{
+    text-align: justify;
+    /*padding: 104px 24px;*/
+    margin-left:25%;
+    margin-right: 25%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    background-color: rgba(247, 239, 231, 0.568);
+   
+}
+.img{
+    object-fit: cover;
+    width: 100%;
+  height: auto;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  
+ 
+}
+
+h3{
+    font-size: 36px;
+    font-weight: 700;
+    color:rgba(31, 114, 114, 0.767);
+    
+    
+}
+h4{
+    font-size:20px;
+    font-style: italic;
+    
+}
+
+.m-24{
+    margin-top:24px;
+    margin-bottom:24px;
+}
+.m-title{
+    margin-top:12px;
+    margin-bottom:4px
+}
